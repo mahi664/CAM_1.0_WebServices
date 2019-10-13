@@ -1,1 +1,1 @@
-insert into USER(id,username,password) values(10001,'SYSADMIN','SYSADMIN')
+insert into user(id,username,password) values(10002,'Ghuge','Mahesh')
